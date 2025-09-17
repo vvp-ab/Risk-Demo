@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 osallistujat <- (
 sukunimi = char,
 etunimi = meikä
 )
-=======
 brrrrrRR
->>>>>>> main
