@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 osallistujat <- (
 sukunimi = char,
-etunimi = char
+etunimi = meikä
 )
 =======
 brrrrrRR
