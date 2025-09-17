@@ -1,1 +1,8 @@
+<<<<<<< HEAD
+osallistujat <- (
+sukunimi = char,
+etunimi = char
+)
+=======
 brrrrrRR
+>>>>>>> main
