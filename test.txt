@@ -1,1 +1,4 @@
-brrrrr
+osallistujat <- (
+sukunimi = char,
+etunimi = char
+)
