@@ -15,7 +15,7 @@ Also, do not use `git fetch, git pull` or similar commands without being instruc
 ---
 
 ## 📚 Table of Contents  
-- [🧭 Demo content](#demo-content)  
+- [🧭 Demo content](#demo-contents)  
 - [⚙️ Setting Up Git in RStudio](#️setting-up-git-in-rstudio)  
    - [🔧 Configuring Git Executable Path](#configuring-git-executable-path)  
    - [👤 Setting Up Git Credentials](#setting-up-git-credentials)  
@@ -27,7 +27,7 @@ Also, do not use `git fetch, git pull` or similar commands without being instruc
 - [📑 Basic Git Commands And Explanations](#basic-git-commands-and-explanations)  
 ---
 
-## 🧭 Demo content  <a id="demo-content"></a>
+## 🧭 Demo contents  <a id="demo-contents"></a>
 
 This demo teaches you:  
 - How to set up Git inside RStudio  
