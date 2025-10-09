@@ -9,9 +9,9 @@ data <- dbGetQuery(con, "SELECT * FROM SANDBOX.RISK.GIT_DEMO")
 print(data)
 
 # Name of reviewer, their feedback about the demo and rating (1-10)
-Name <- "Ålands Banker"
-Message <- "Commit denied. Your code has been deemed suboptimal by the Central Committee of Snowflake."
-Rating <- -999
+Name <- "Eldin Velic"
+Message <- "Very Good Demo 10/10 Would recommend"
+Rating <- 10
 
 # Updates SANDBOX.RISK.GIT_DEMO table with the new review
 insert_into_git_demo(con, Message, Name, Rating)
