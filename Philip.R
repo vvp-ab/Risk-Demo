@@ -11,8 +11,8 @@ print(data)
 
 # Name of reviewer, their feedback about the demo and rating (1-10)
 Name <- "IgelandAAB"
-Message <- "Insert a review here."
-Rating <- 5
+Message <- "The prophecy foretold of this merge conflict. Those unworthy shall face rebase eternal."
+Rating <- 666
 
 # Updates SANDBOX.RISK.GIT_DEMO table with the new review
 insert_into_git_demo(con, Message, Name, Rating)
