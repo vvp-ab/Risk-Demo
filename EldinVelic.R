@@ -10,8 +10,8 @@ print(data)
 
 # Name of reviewer, their feedback about the demo and rating (1-10)
 Name <- "Ålands Banker"
-Message <- "Insert a review here."
-Rating <- 5
+Message <- "Commit denied. Your code has been deemed suboptimal by the Central Committee of Snowflake."
+Rating <- -999
 
 # Updates SANDBOX.RISK.GIT_DEMO table with the new review
 insert_into_git_demo(con, Message, Name, Rating)
