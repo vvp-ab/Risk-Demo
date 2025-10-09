@@ -15,7 +15,7 @@ Also, do not use `git fetch, git pull` or similar commands without being instruc
 ---
 
 ## 📚 Table of Contents  
-- [🧭 Demo content](#demo-contents)  
+- [🧭 Demo contents](#demo-contents)  
 - [⚙️ Setting Up Git in RStudio](#️setting-up-git-in-rstudio)  
    - [🔧 Configuring Git Executable Path](#configuring-git-executable-path)  
    - [👤 Setting Up Git Credentials](#setting-up-git-credentials)  
